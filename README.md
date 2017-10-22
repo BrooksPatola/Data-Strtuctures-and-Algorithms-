@@ -1,1 +1,1 @@
-learning data structs and algorithms
+Creating data structs and algorithms in C++
